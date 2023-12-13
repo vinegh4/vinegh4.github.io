@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm an embedded software developer and FPGA designer in the aerospace industry. I hold Bachelor's and Master's degrees
+in Computer Science. Outside of my day job, I'm interested in hardware, machine learning, and computer graphics/rendering.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[george@vineyardlabs.us](mailto:george@vineyardlabs.us)
