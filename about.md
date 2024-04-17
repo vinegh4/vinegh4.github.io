@@ -11,4 +11,4 @@ in Computer Science. Outside of my day job, I'm interested in hardware, machine 
 
 ### Contact me
 
-[george@vineyardlabs.us](mailto:george@vineyardlabs.us)
+[george@vine.life](mailto:george@vine.life)
